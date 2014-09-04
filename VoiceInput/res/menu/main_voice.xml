@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_weather"
+        android:title="@string/show_me_weather">
+        <menu>
+            <item
+                android:id="@+id/menu_today"
+                android:title="@string/menu_today" />
+            <item
+                android:id="@+id/menu_tomorrow"
+                android:title="@string/menu_tomorrow" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_location"
+        android:title="@string/show_me_location">
+        <menu>
+            <item
+                android:id="@+id/menu_current"
+                android:title="@string/menu_location_current" />
+            <item
+                android:id="@+id/menu_copenhagen"
+                android:title="@string/menu_location_copenhagen" />
+        </menu>
+    </item>
+</menu>

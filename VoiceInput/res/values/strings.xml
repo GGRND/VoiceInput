@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceInput</string>
+    <string name="show_me_weather">Weather For</string>
+    <string name="menu_today">Today</string>
+    <string name="menu_tomorrow">Tomorrow</string>
+    <string name="show_me_location">Location At</string>
+    <string name="menu_location_current">Current</string>
+    <string name="menu_location_copenhagen">Copenhagen</string>
+
+</resources>
